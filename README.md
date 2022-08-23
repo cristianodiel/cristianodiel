@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+ <div align="left">
+  <a href="https://github.com/Edv-Fendi">
+  <img src="https://images7.memedroid.com/images/UPLOADED122/5605dd1ee6f71.jpeg"/>  
+</div>
