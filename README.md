@@ -25,17 +25,14 @@ object Cristiano {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<h2 align="left"> Most Languages </h2>
-<div align="left">
+
+<div align="center">
   <a href="https://github.com/cristianodiel">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianodiel&langs_count=7&theme=dark"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianodiel&show_icons=true&theme=dark&include_all_commits"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianodiel&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<h2 align="left"> Git Hub Stats </h2>
-<div align="left">
-  <a href="https://github.com/cristianodiel">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cristianodiel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+
 <!--
 **cristianodiel/cristianodiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
